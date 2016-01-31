@@ -11,5 +11,5 @@ found accuracy for each analysis.
 ## Part 2
 - Varying the mean and plotting the 3D plot using MatPlotLib
 
-# Part 3 
+## Part 3 
 - Varying the covariance and plotting the 3D plot using MatPlotLib
